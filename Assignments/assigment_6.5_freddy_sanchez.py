@@ -6,8 +6,8 @@ Decloca = data.find('.')
 print "Decimal index:", Decloca
 
 print "Decmial number found in text:",data[24:28]
-capture = float(data[24:28])
+peach = float(data[24:28])
 
-capture = float(data[Decloca:])
+peach = float(data[Decloca:])
 
-print "Conversion of string-decimal to real decimal:",capture
+print "Conversion of string-decimal to real decimal:",peach

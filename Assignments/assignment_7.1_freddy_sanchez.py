@@ -8,4 +8,4 @@ try:
 except:
 	print "File not found. Try again."
 for line in fhand:
-	print line.upper(),line.rstrip()
+	print line.upper()
