@@ -1,4 +1,4 @@
-asignment_8.4_freddy_sanchez 
+#asignment_8.4_freddy_sanchez 
 
 fname = raw_input("Enter file name: ")
 fh = open(fname)
